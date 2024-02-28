@@ -25,7 +25,7 @@
       "url": "_framework\/icudt_no_CJK.dat"
     },
     {
-      "hash": "sha256-JfD6e4jHQxQwsEh0hrbEK3k8O88PT6mRf4RrgneCSmE=",
+      "hash": "sha256-LW5KCCVlgsiGAYr\/QLYe6XLgaFEtF3QRxG4ZvljHUT8=",
       "url": "_framework\/blazor.boot.json"
     },
     {
@@ -33,7 +33,7 @@
       "url": "_framework\/dotnet.native.8.0.2.hr3j199gss.js"
     },
     {
-      "hash": "sha256-+huU72NmJYaadrIGp\/qSgYnVNUZy35KO8FLDoRG4Xfs=",
+      "hash": "sha256-\/aoegdAcANQhPARVahC4D8fH\/Pxo5RRZKNSsghPFHcg=",
       "url": "_framework\/dotnet.native.wasm"
     },
     {
@@ -85,11 +85,11 @@
       "url": "_framework\/Microsoft.Extensions.Primitives.wasm"
     },
     {
-      "hash": "sha256-3\/3VTqXAAlGrg\/MkxDS6pas5OzXOrurGRZ7wVOBXJQA=",
+      "hash": "sha256-jUD3Y5dxbZ2YtXwFgLa1uVHnEpmFelqTrwu\/47V+alo=",
       "url": "_framework\/Microsoft.FluentUI.AspNetCore.Components.Icons.wasm"
     },
     {
-      "hash": "sha256-3pK\/bZui15SARe2PduJX8CFhaPaBB05N2atNLquu2E0=",
+      "hash": "sha256-pQ+tbvvr4MKIgh4EInDA+Nc\/88bsdpjC6sF9YdtMXeo=",
       "url": "_framework\/Microsoft.FluentUI.AspNetCore.Components.wasm"
     },
     {
@@ -101,7 +101,7 @@
       "url": "_framework\/Microsoft.JSInterop.WebAssembly.wasm"
     },
     {
-      "hash": "sha256-FjFnogQaUPp1JSfLjkS6esnl7O\/To9wdS4QWo3kmaXQ=",
+      "hash": "sha256-J3kvkIBfjjpBsj2\/WlwsidQJ9vH\/xDUyKg7WkS1S\/KM=",
       "url": "_framework\/SDKAnalyzer.wasm"
     },
     {
@@ -229,8 +229,12 @@
       "url": "404.html"
     },
     {
-      "hash": "sha256-Qo2l0mNROT\/9NoxxGqFhmPvU1Cz79qJHFSQ56TM40h8=",
+      "hash": "sha256-bQdKd3CmJlaZr6cXyckdH4eQz7q32v+GGZYlp\/0iHfA=",
       "url": "Config\/boot.json"
+    },
+    {
+      "hash": "sha256-VLD81IEFOqZsZuCoALJai2P4\/pQ3lBatOc7L7KTeIGs=",
+      "url": "Config\/debug_20240226.json"
     },
     {
       "hash": "sha256-Yag+QG7+GCwVnYBc8dI2FgW43Suju66Pr4MugwVUtgY=",
@@ -245,7 +249,7 @@
       "url": "decode.min.js"
     },
     {
-      "hash": "sha256-enKgCMkYmCpfEcmg6Annbmc40VZ\/A6aYYSQjZfVn2cU=",
+      "hash": "sha256-cHc2ZmNE6Yu4zw0m82YmUY4SOlCJbWTMaw5k8mF97CE=",
       "url": "demo-data\/analyzer.json"
     },
     {
@@ -385,5 +389,5 @@
       "url": "_content\/Microsoft.FluentUI.AspNetCore.Components\/Microsoft.FluentUI.AspNetCore.Components.lib.module.js"
     }
   ],
-  "version": "OM6d4TDQ"
+  "version": "vBtG55Z1"
 };
